@@ -1,0 +1,1 @@
+all combinations of 0?101?0 if replace ? with 0 or 1
